@@ -1,0 +1,4 @@
+Java Fuse client to support fetching&prefetching on listing file directories.
+the same server techniques to be used on client side, like caching, prefetching&fetching.
+
+Client has in-memory cache and DB as persistent storage, so when the Server is offline, client can still work.
